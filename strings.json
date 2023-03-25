@@ -1,0 +1,13 @@
+{
+	"disableOnTimeout": "Merhaba! Şu anda zaman aşımına uğradınız ve modmail, zaman aşımına uğrayan kullanıcıların bu hizmeti kullanmasını engelleyecek şekilde ayarlandı.",
+	"disabled": "Merhaba! Üzgünüm ama modmail şu anda devre dışı.",
+	"nowBlocked": "MERHABA! Destek ekibi modmail'i kullanmanızı engellemeye karar verdi.",
+	"nowClosed": "MERHABA! iletişime geçtiğiniz için teşekkür ederiz. Biletiniz destek ekibi tarafından kapatılmıştır. Yeni bir tane açmak istersen, buradan yeni bir mesaj göndermekten çekinme.",
+	"pending": "Merhaba! Önce destek sunucusunun yönergelerini incelemeli ve kabul etmelisiniz.",
+	"thread": {
+		"blocked": "Bu konunun yazarı engellendi. Engellemeyi kaldırmak isteyebilirsiniz .",
+		"nowBlocked": "Bu konunun yazarı başarıyla engellendi.",
+		"timeout": "Bu konunun yazarı zaman aşımına uğradı ve zaman aşımına uğradığında modmail kullanımı devre dışı bırakıldı."
+	},
+	"welcome": "Merhaba! Destek ekibiyle iletişime geçtiğiniz için teşekkür ederiz. Hızlı bir şekilde size geri döneceklerdir."
+}
